@@ -2,8 +2,6 @@
 
 Contact me or create Pull Request if you have any suggestions.
 
-Can test : https://dok4ejtbibm5w.cloudfront.net  (Env devnet)
-
 ### `yarn`
 
 ### `yarn start`
